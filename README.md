@@ -3,7 +3,8 @@ A Natural Language Processing (NLP) project applying sentiment analysis to Amazo
 
 1. Navigate to the directory  
 2. Download the Dataset: Download the CSV from the Kaggle link below and place it in the root directory of this repository.  https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
-3. Install Dependencies  
+3. Install Dependencies (Navigate to the project directory and install the required dependencies using pip:
+pip install -r requirements.txt)   
 4. Launch Jupyter Notebook  
 5. Open the Notebook: Open sentiment_analysis.ipynb and run the cells to execute the sentiment analysis.  
 
